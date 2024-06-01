@@ -1,7 +1,7 @@
 # Chat bots with End to End memorial Network
 
 ## Objective
-色々なNLPのモデルの学習をしていく中で、NNを使ったモデルも構築したいと思った。  
+色々なNLPのモデルの学習をしていく中で、NNを使ったモデルも構築したいと考えた。  
 また、kerasを使用したSequentialモデルの作成を試したことは以前にあったが、Functional APIで実装したことは無かったので、動画教材や色々なサイトを参照しながら試してみたいと考えた。
 
 ## Prospects for the future
