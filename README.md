@@ -7,7 +7,7 @@
 ## Prospects for the future
 まだNNの中身についていくつか不明な点があるので、コードに解説を加えていけたらと考えている。  
 また、原論文の詳しい解説をしている日本語のサイトが見当たらなかったので、今後Qiita等にまとめた内容を掲載できればと思う。  
-（現時点では、まだまだTensorflowやLSTMの理解が足りていないので、いつになるやら、、、）
+（現時点では、まだまだTensorflowやLSTMの理解が足りていないので、いつになるか分からないが）
 
 ## Licence
 [Pieian Data](https://pieriantraining.com/)
